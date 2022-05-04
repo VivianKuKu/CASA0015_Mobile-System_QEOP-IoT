@@ -1,27 +1,38 @@
-# QEOP IoT App
-
-This is the Final assessment template for CASA0014 - Please use this template and edit the relevant sections to personalise.
-This section has a short introduction to what the application is
-
-## Use this README File 
-
-Use this section to show us what your Mobile App is about.   Include a Screenshot to the App, link to the various frameworks you've used. Include your presentation video here that shows off your Mobile App.   Emojis are also fun to include 📱 😄
-
-Look at some other Flutter Apps online and see how they use there README File.  Good examples are:
-
-- https://github.com/miickel/flutter_particle_clock
-- https://github.com/Tarikul711/flutter-food-delivery-app-ui    
-- https://github.com/mohak1283/Instagram-Clone
+# Idea Pitch–– QEOP IoT App
 
 
-## Include A Section That Tells Developers How To Install The App
+### 1. Problems
 
-Include a section that gives intructions on how to install the app or run it in Flutter.  What versions of the plugins are you assuming?  Maybe define a licence
+#### - AS-IS
+Using multiple digital notebooks to record any changes (e.g. evernote)
+Presenting real-time data in different websites
 
-##  Contact Details
+#### - TO-BE
+Allowing multiple managers/operators to record and share any changes of devices on the spot.
 
-Having Contact Details is also good as it shows people how to get in contact with you if they'd like to contribute to the app. 
+#### - Potential Users
+Device managers and operators, CE staff and researchers, Site managers
 
 
+### 2. Data Souce
 
-# !!! Tag as a Flutter repository
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/52306317/166834124-46b43cc4-e226-4632-bb25-7eba62a92baa.png">
+
+
+### 3. User Interface
+
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/52306317/166834213-760a45de-3823-465a-b1c5-a9dd47af9ce0.png">
+
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/52306317/166834228-3057b7b6-33a2-495b-af3d-34c75700ed71.png">
+
+
+### 4. Issues for now
+
+- Backend server (local or cloud storage)
+- Data lifecycle management & user management (optional)
+  - Add
+  - Amend
+  - Delete
+  - Search
+  - Download
+- Login function (optional)
