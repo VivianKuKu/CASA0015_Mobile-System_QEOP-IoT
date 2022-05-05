@@ -1,0 +1,6 @@
+framework module here_sdk {
+  umbrella header "here_sdk-umbrella.h"
+
+  export *
+  module * { export * }
+}
