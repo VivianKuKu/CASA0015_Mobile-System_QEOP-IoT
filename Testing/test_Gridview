@@ -1,0 +1,65 @@
+import 'package:flutter/material.dart';
+
+import 'package:flutter/material.dart';
+
+class CreatePage extends StatefulWidget {
+  @override
+  State<StatefulWidget> createState() {
+    return _CreatePageState();
+  }
+}
+
+class _CreatePageState extends State<CreatePage> {
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+        appBar: AppBar(
+          title: Text('Create', style: TextStyle(color: Colors.black)),
+          elevation: 1, //shadow of the appBar
+          centerTitle: false, //title align to left
+          leading: Builder(
+            builder: (BuildContext context) {
+              return IconButton(
+                icon: const Icon(Icons.book),
+                color: Colors.black,
+                onPressed: () {
+                  Scaffold.of(context).openDrawer();
+                },
+                tooltip: MaterialLocalizations.of(context).openAppDrawerTooltip,
+              );
+            },
+          ),
+          backgroundColor: Color.fromARGB(255, 255, 255, 255),
+        ),
+        // body: Container(
+        //   child: Text("Create something here."),
+        // )
+        //
+        //
+        // body: Container(
+        //   child: GridView.builder(
+        //     gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
+        //       crossAxisCount: 2,
+        //       childAspectRatio: 16 / 9,
+        //       mainAxisSpacing: 5, //主軸方線中間的間隙 水平
+        //       crossAxisSpacing: 8, //交叉軸方向的間隙 垂直
+        //     ),
+        //     itemBuilder: (_, index) => Container(
+        //       color: Colors.blue,
+        //     ),
+        //   ),
+        // ),
+        body: GridView.count(
+          crossAxisCount: 2,
+          mainAxisSpacing: 10.0, //主軸方線中間的間隙 水平
+          crossAxisSpacing: 5.0, //交叉軸方向的間隙 垂直
+          children: List.generate(50, (index) {
+            return Container(
+              child: Card(
+                color: Colors.blue,
+              ),
+            );
+          }),
+        ));
+  }
+}
