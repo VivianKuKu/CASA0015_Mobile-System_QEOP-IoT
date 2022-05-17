@@ -1,11 +1,12 @@
 # QEOP IoT App
 
-This is the Final assessment template for CASA0014 - Please use this template and edit the relevant sections to personalise.
-This section has a short introduction to what the application is
+QEOP IoT app helps IoT device managers to check the live MQTT data feed and record the maintenance logs on-site, organising the files and records in one shared platform, especially when maintaining hundreds of devices with multiple on-site operators.
 
-idea pitch ->
+🎨 Find the original idea pitch on [Idea Pitch page](https://github.com/VivianKuKu/CASA0015_Mobile-System_QEOP-IoT/tree/main/Idea%20Pitch)
 
-qeop iot app ->
+🚀 Download the Flutter file of QEOP IoT on [QEOP IoT page](https://github.com/VivianKuKu/CASA0015_Mobile-System_QEOP-IoT/tree/main/QEOP%20IoT)
+
+
 
 ## Use this README File 
 
