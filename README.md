@@ -20,4 +20,5 @@ Include a section that gives intructions on how to install the app or run it in 
 
 ##  Contact Details
 
-Having Contact Details is also good as it shows people how to get in contact with you if they'd like to contribute to the app. 
+<a href="https://twitter.com/v830108ku543"><img src="https://user-images.githubusercontent.com/35039342/55471524-8e24cb00-5627-11e9-9389-58f3d4419153.png" width="60"></a>
+<a href="https://www.linkedin.com/in/vivianchinku/"><img src="https://user-images.githubusercontent.com/35039342/55471530-94b34280-5627-11e9-8c0e-6fe86a8406d6.png" width="60"></a>
