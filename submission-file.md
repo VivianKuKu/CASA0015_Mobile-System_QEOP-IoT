@@ -20,8 +20,9 @@ Upload this PDF into Moodle for submission including a copy of your presentation
 
 ## Link to GitHub Repository
 
-Flutter Application Name - MY APPLICATION NAME
-GitHub Repository - [https://github.com/ucl-casa-ce/casa0015-mobile-assessment](https://github.com/ucl-casa-ce/casa0015-mobile-assessment)
+Flutter Application Name - QEOP IoT
+
+GitHub Repository - [https://github.com/VivianKuKu/CASA0015_Mobile-System_QEOP-IoT](https://github.com/VivianKuKu/CASA0015_Mobile-System_QEOP-IoT)
 
 ## Introduction to Application
 
