@@ -21,7 +21,3 @@ Include a section that gives intructions on how to install the app or run it in 
 ##  Contact Details
 
 Having Contact Details is also good as it shows people how to get in contact with you if they'd like to contribute to the app. 
-
-
-
-# !!! Tag as a Flutter repository
