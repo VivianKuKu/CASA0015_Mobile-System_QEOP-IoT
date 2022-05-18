@@ -4,6 +4,12 @@
         android:label="test_switchpage"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
+
+
+        <!-- TODO: Add your Google Maps API key here -->
+        <meta-data android:name="com.google.android.geo.API_KEY"
+               android:value="YOUR-KEY-HERE"/>
+
         <activity
             android:name=".MainActivity"
             android:exported="true"
@@ -37,9 +43,11 @@
             android:label="hellomap"
             android:icon="@mipmap/ic_launcher"> -->
 
-        <meta-data android:name="com.here.sdk.access_key_id" android:value="RCRgb0xfACIgDDjYQ3IknQ"/>
-        <meta-data android:name="com.here.sdk.access_key_secret" android:value="sjQ7ex_Lj_DSeroSvhPiZph6xCmB9EXForROo3-rb1Z0Ka23CQS84dhnJ2ZZT3Jv_fLhCeIT2pl3wK1Trtz-QA"/>
+        <!-- <meta-data android:name="com.here.sdk.access_key_id" android:value="RCRgb0xfACIgDDjYQ3IknQ"/>
+        <meta-data android:name="com.here.sdk.access_key_secret" android:value="sjQ7ex_Lj_DSeroSvhPiZph6xCmB9EXForROo3-rb1Z0Ka23CQS84dhnJ2ZZT3Jv_fLhCeIT2pl3wK1Trtz-QA"/> -->
         <!-- new add (end)-->
     </application>
     
 </manifest>
+
+
