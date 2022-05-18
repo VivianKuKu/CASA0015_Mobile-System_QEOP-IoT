@@ -21,6 +21,8 @@ Device managers and operators, CE staff and researchers, Site managers
 
 ### 3. User Interface
 
+The user interfaces are designed by using Figma.
+
 <img width="1000" alt="image" src="https://user-images.githubusercontent.com/52306317/166834213-760a45de-3823-465a-b1c5-a9dd47af9ce0.png">
 
 <img width="1000" alt="image" src="https://user-images.githubusercontent.com/52306317/166834228-3057b7b6-33a2-495b-af3d-34c75700ed71.png">
