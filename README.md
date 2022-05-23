@@ -6,7 +6,7 @@ QEOP IoT app helps IoT device managers to check the live MQTT data feed and reco
 
 🚀 Download the Flutter file of QEOP IoT on [QEOP IoT page](https://github.com/VivianKuKu/CASA0015_Mobile-System_QEOP-IoT/tree/main/QEOP%20IoT)
 
-🦆 Find the final presentation slides on [Final Presentation](https://github.com/VivianKuKu/CASA0015_Mobile-System_QEOP-IoT/blob/main/Final%20Presentation.pdf)
+🦆 Find the final presentation slides on [Final Presentation_QEOP IoT](https://github.com/VivianKuKu/CASA0015_Mobile-System_QEOP-IoT/blob/main/Final%20Presentation_QEOP%20IoT.pdf)
 
 ## Features
 
