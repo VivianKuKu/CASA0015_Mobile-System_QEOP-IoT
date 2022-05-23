@@ -6,6 +6,7 @@ QEOP IoT app helps IoT device managers to check the live MQTT data feed and reco
 
 🚀 Download the Flutter file of QEOP IoT on [QEOP IoT page](https://github.com/VivianKuKu/CASA0015_Mobile-System_QEOP-IoT/tree/main/QEOP%20IoT)
 
+🦆 Find the final presentation slides on [Final Presentation](https://github.com/VivianKuKu/CASA0015_Mobile-System_QEOP-IoT/blob/main/Final%20Presentation.pdf)
 
 ## Features
 
@@ -35,11 +36,24 @@ QEOP IoT app helps IoT device managers to check the live MQTT data feed and reco
 
 
 
-## Getting Started
+## How to install the App
+ 
+**Requirement**
 
-Include A Section That Tells Developers How To Install The App
+- Any Operating System (ie. MacOS X, Linux, Windows)
+- Any IDE with Flutter SDK installed (ie. Android Studio, VSCode, IntelliJ, etc)
 
-Include a section that gives intructions on how to install the app or run it in Flutter.  What versions of the plugins are you assuming?  Maybe define a licence
+
+
+**Steps**
+1. Setup Flutter 
+2. Clone the repo
+3. Create an Google Maps API Key on Google's developer portal website.
+4. [ios app] Paste your API key into AppDelegate.swift in the following line: GMSServices.provideAPIKey("Your API")
+5. [android app] Paste our API key into android/app/src/main/AndroidManifest.xml in the following line: meta-data android:name="com.google.android.geo.API_KEY" android:value="YOUR-KEY-HERE"
+
+
+
 
 ##  Contact Details
 
