@@ -8,6 +8,11 @@ QEOP IoT app helps IoT device managers to check the live MQTT data feed and reco
 
 🦆 Find the final presentation slides on [Final Presentation_QEOP IoT](https://github.com/VivianKuKu/CASA0015_Mobile-System_QEOP-IoT/blob/main/Final%20Presentation_QEOP%20IoT.pdf)
 
+![image](https://user-images.githubusercontent.com/52306317/171628657-957565b6-ea7f-4c99-b206-2f212777e3e8.png)
+![image](https://user-images.githubusercontent.com/52306317/171628716-f8ab7239-82f7-4dad-98b9-08093a30286a.png)
+![image](https://user-images.githubusercontent.com/52306317/171628738-0a67e9d7-ef78-43b7-9a88-1017992d247e.png)
+
+
 ## Features
 
 - Map page
