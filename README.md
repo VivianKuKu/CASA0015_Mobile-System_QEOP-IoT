@@ -1,6 +1,6 @@
 # QEOP IoT App
 
-QEOP IoT app helps IoT device managers to check the live MQTT data feed and record the maintenance logs on-site, organising the files and records in one shared platform, especially when maintaining hundreds of devices with multiple on-site operators.
+QEOP IoT app helps the IoT sensor management team maintain hundreds of outdoor sensors by demonstrating the location of each sensor, connecting to the real-time MQTT data feed, and allowing users to record any changes made to the sensors all in one shared platform.
 
 🎨 Find the original idea pitch on [Idea Pitch page](https://github.com/VivianKuKu/CASA0015_Mobile-System_QEOP-IoT/tree/main/Idea%20Pitch)
 
